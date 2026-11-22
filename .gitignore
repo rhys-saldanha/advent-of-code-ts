@@ -1,0 +1,6 @@
+node_modules/
+coverage/
+dist/
+
+# Personal puzzle input is local-only
+src/years/**/input.txt
